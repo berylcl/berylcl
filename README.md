@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gakii Beryl</h1>
 <h3 align="center">A passionate fullstack developer from Nairobi,Kenya.</h3>
 
-<img align="right" alt="coding" width ="400" src="e726c74ac081eed50feee1433d12c998.gif">
+<img align="center" alt="coding" width ="400" src="e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berylcl" alt="berylcl" /></a> </p>
 
