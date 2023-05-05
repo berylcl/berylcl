@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hi 👋, I'm Gakii Beryl</h1>
-<h3 align="left">A passionate fullstack developer from Nairobi,Kenya.</h3>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=240046&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BF%2C+I'm+Gakii+Beryl" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=240046&width=435&lines=A+passionate+full+stack+developer;From+Nairobi%2CKenya" alt="Typing SVG" /></a>
 <img align="left" alt="coding" width ="400" src="e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berylcl" alt="berylcl" /></a> </p>
