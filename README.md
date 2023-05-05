@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=240046&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BF%2C+I'm+Gakii+Beryl" alt="Typing SVG" /></a><p>
+<p margin-left = "20px"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=240046&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BF%2C+I'm+Gakii+Beryl" alt="Typing SVG" /></a><p>
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=240046&width=435&lines=A+passionate+full+stack+developer;From+Nairobi%2CKenya" alt="Typing SVG" /></a><p>
 <img align="left" margin-left = 10px alt="coding" width ="400" src="e726c74ac081eed50feee1433d12c998.gif">
 
